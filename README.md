@@ -1,12 +1,13 @@
 ### Olá, sou Gabriel Bezerra 👋
-Estudo programação front-end por conta própria e possuo alguns projetos hospedados no meu Github. No momento estou desenvolvendo uma página de compras que faz requisições para um servidor JSON e armazena dados no local storage. Em breve postarei aqui.
+Estudo programação front-end por conta própria e possuo alguns projetos hospedados no meu Github. 
 
 ### Meus projetos:
+- [Grocery Store](https://github.com/GabrielBezerraG/Grocery-Store)
 - [To Do List](https://github.com/GabrielBezerraG/To-Do-List)
 - [Calculator](https://github.com/GabrielBezerraG/Calculator)
 
 ### Possuo os seguintes conhecimentos:
-HTML, CSS, JS, ES6, Regex, Flexbox, CSS Grid, consumo de APIs, layouts responsivos e manipulação de elementos DOM.
+HTML, CSS, JS, ES6, Regex, Flexbox, Git, CSS Grid, consumo de APIs, layouts responsivos e manipulação de elementos DOM.
 
 ### 📫 Entre em contato comigo:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bezerra-a59153244/)
