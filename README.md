@@ -1,5 +1,5 @@
 ### Olá, sou Gabriel Bezerra 👋
-Estudo programação front-end por conta própria e possuo alguns projetos hospedados no meu Github. No momento estou aprendendo React e pretendo criar novos projetos usando essa tecnologia.
+Estudo programação front-end por conta própria e possuo alguns projetos hospedados no meu Github. No momento estou aprendendo React e pretendo criar novas páginas utlizando essa tecnologia.
 
 ### Meus projetos:
 - [Grocery Store](https://github.com/GabrielBezerraG/Grocery-Store)
