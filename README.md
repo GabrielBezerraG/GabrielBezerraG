@@ -4,6 +4,7 @@ Estudo programação front-end por conta própria e possuo alguns projetos hospe
 ### Meus projetos:
 - [Grocery Store](https://github.com/GabrielBezerraG/Grocery-Store)
 - [To Do List](https://github.com/GabrielBezerraG/To-Do-List)
+- [RGB Game](https://github.com/GabrielBezerraG/RGB-Game)
 - [Calculator](https://github.com/GabrielBezerraG/Calculator)
 
 ### Possuo os seguintes conhecimentos:
