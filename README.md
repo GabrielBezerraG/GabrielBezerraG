@@ -1,16 +1,16 @@
-### Olá, sou Gabriel Bezerra 👋
-Estudo programação front-end por conta própria e possuo alguns projetos hospedados no meu Github. No momento estou aprendendo React e pretendo criar novas páginas utlizando essa tecnologia.
+### Hey, nice to e-meet you! I’m Gabriel Bezerra. 👋
+I’ve been studying programming on my own for over a year, always sharpening my skills and learning new things. I’m continuously updating my personal GitHub with new projects. Right now I’m learning React and I intend to to keep creating new pages applying this technology.
 
-### Meus projetos:
+### Here are my projects:
 - [Grocery Store](https://github.com/GabrielBezerraG/Grocery-Store)
 - [To Do List](https://github.com/GabrielBezerraG/To-Do-List)
 - [RGB Game](https://github.com/GabrielBezerraG/RGB-Game)
 - [Calculator](https://github.com/GabrielBezerraG/Calculator)
 
-### Possuo os seguintes conhecimentos:
-HTML, CSS, JS, ES6, Regex, Flexbox, Git, CSS Grid, consumo de APIs, layouts responsivos e manipulação de elementos DOM.
+### My skills: 
+HTML, CSS, JavaScript, React, ES6, Regex, Flexbox, CSS Grid, Git, Scrum, Agile, consuming REST APIs, responsive layouts and DOM manipulation.
 
-### 📫 Entre em contato comigo:
+### 📫 How to reach me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bezerra-a59153244/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbezerragarcia@gmail.com)
 
